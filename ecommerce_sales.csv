@@ -1,0 +1,301 @@
+order_id,customer_id,product,category,city,region,month,year,quantity,unit_price,discount_pct,total_sales,payment_method,rating,returned
+ORD0001,CUST052,Speaker,Accessories,Mumbai,West,Apr,2024,3,6906,5,20718,Net Banking,5,No
+ORD0002,CUST015,Tablet,Electronics,Ahmedabad,West,Jul,2023,4,17760,0,71040,Debit Card,1,No
+ORD0003,CUST072,Headphones,Accessories,Chennai,South,Mar,2024,2,5445,0,10890,UPI,2,No
+ORD0004,CUST061,Laptop,Electronics,Chennai,South,Feb,2024,5,52899,10,264495,Debit Card,4,No
+ORD0005,CUST021,Headphones,Accessories,Delhi,North,Nov,2024,2,6455,0,12910,Credit Card,5,No
+ORD0006,CUST075,Speaker,Accessories,Delhi,North,Oct,2023,1,7947,10,7947,Debit Card,4,No
+ORD0007,CUST075,Smartwatch,Accessories,Ahmedabad,West,Jul,2024,1,10719,10,10719,Credit Card,4,No
+ORD0008,CUST024,Smartwatch,Accessories,Pune,West,Jan,2024,4,9280,0,37120,Credit Card,2,No
+ORD0009,CUST003,Speaker,Accessories,Ahmedabad,West,Aug,2024,3,8266,10,24798,UPI,4,No
+ORD0010,CUST022,Laptop,Electronics,Delhi,North,Mar,2024,4,53887,0,215548,Net Banking,5,No
+ORD0011,CUST053,Tablet,Electronics,Chennai,South,Dec,2024,4,20266,20,81064,Debit Card,4,No
+ORD0012,CUST002,Phone,Electronics,Bengaluru,South,Dec,2024,4,22666,5,90664,Credit Card,5,No
+ORD0013,CUST030,Laptop,Electronics,Ahmedabad,West,Feb,2023,4,56188,15,224752,Debit Card,5,No
+ORD0014,CUST038,Phone,Electronics,Chennai,South,Mar,2023,5,22671,10,113355,Net Banking,3,No
+ORD0015,CUST002,Speaker,Accessories,Bengaluru,South,May,2024,5,6969,0,34845,Net Banking,4,No
+ORD0016,CUST064,Camera,Electronics,Bengaluru,South,Nov,2024,2,36156,10,72312,Cash,3,No
+ORD0017,CUST060,Phone,Electronics,Delhi,North,Aug,2024,1,25122,20,25122,Net Banking,5,No
+ORD0018,CUST021,Tablet,Electronics,Ahmedabad,West,Oct,2024,4,22124,10,88496,UPI,4,No
+ORD0019,CUST033,Camera,Electronics,Hyderabad,South,Jul,2023,2,37585,15,75170,Credit Card,4,Yes
+ORD0020,CUST076,Phone,Electronics,Mumbai,West,Jul,2023,1,26699,15,26699,Cash,5,No
+ORD0021,CUST058,Speaker,Accessories,Delhi,North,Dec,2024,3,9777,0,29331,UPI,4,No
+ORD0022,CUST022,Camera,Electronics,Delhi,North,Jul,2024,5,35900,0,179500,Debit Card,5,No
+ORD0023,CUST049,Speaker,Accessories,Hyderabad,South,Aug,2023,1,10524,10,10524,Credit Card,4,Yes
+ORD0024,CUST059,Phone,Electronics,Mumbai,West,Jan,2024,3,22523,5,67569,Net Banking,3,No
+ORD0025,CUST042,Speaker,Accessories,Chennai,South,Apr,2023,1,7393,15,7393,Credit Card,4,No
+ORD0026,CUST060,Tablet,Electronics,Pune,West,Jun,2024,5,20117,20,100585,Debit Card,5,No
+ORD0027,CUST080,Phone,Electronics,Ahmedabad,West,Sep,2023,5,24593,5,122965,Cash,3,No
+ORD0028,CUST015,Phone,Electronics,Pune,West,Feb,2024,2,23968,0,47936,Cash,5,No
+ORD0029,CUST062,Phone,Electronics,Chennai,South,Jan,2023,4,27197,15,108788,Cash,5,No
+ORD0030,CUST062,Laptop,Electronics,Delhi,North,Oct,2024,1,53753,0,53753,Net Banking,3,No
+ORD0031,CUST047,Laptop,Electronics,Mumbai,West,Dec,2023,1,57932,15,57932,UPI,5,No
+ORD0032,CUST062,Laptop,Electronics,Delhi,North,Feb,2023,3,54296,5,162888,UPI,2,No
+ORD0033,CUST051,Tablet,Electronics,Bengaluru,South,Jul,2023,5,22240,10,111200,Credit Card,3,No
+ORD0034,CUST055,Camera,Electronics,Delhi,North,Mar,2024,1,34261,0,34261,Net Banking,3,No
+ORD0035,CUST064,Speaker,Accessories,Delhi,North,Oct,2024,5,7286,10,36430,Cash,5,Yes
+ORD0036,CUST003,Smartwatch,Accessories,Chennai,South,Feb,2023,1,14175,5,14175,Cash,4,No
+ORD0037,CUST051,Phone,Electronics,Chennai,South,Nov,2024,2,26202,10,52404,Debit Card,3,No
+ORD0038,CUST007,Speaker,Accessories,Chennai,South,Jul,2024,4,7878,0,31512,Debit Card,4,No
+ORD0039,CUST021,Phone,Electronics,Pune,West,Feb,2024,1,26143,10,26143,Cash,4,Yes
+ORD0040,CUST073,Tablet,Electronics,Bengaluru,South,Mar,2023,5,20644,15,103220,Cash,2,Yes
+ORD0041,CUST039,Phone,Electronics,Chennai,South,Nov,2024,2,26432,0,52864,Net Banking,5,No
+ORD0042,CUST018,Laptop,Electronics,Mumbai,West,Jul,2023,1,57145,0,57145,UPI,5,No
+ORD0043,CUST004,Smartwatch,Accessories,Pune,West,Apr,2023,3,14376,0,43128,Debit Card,4,Yes
+ORD0044,CUST060,Headphones,Accessories,Hyderabad,South,Jan,2024,4,4055,10,16220,UPI,5,No
+ORD0045,CUST014,Phone,Electronics,Mumbai,West,May,2023,1,26720,10,26720,Net Banking,4,No
+ORD0046,CUST009,Speaker,Accessories,Ahmedabad,West,Dec,2024,2,10986,10,21972,Cash,5,No
+ORD0047,CUST053,Laptop,Electronics,Ahmedabad,West,Sep,2024,3,53276,0,159828,UPI,4,No
+ORD0048,CUST002,Headphones,Accessories,Mumbai,West,Aug,2024,2,7811,5,15622,Cash,4,Yes
+ORD0049,CUST060,Smartwatch,Accessories,Chennai,South,Dec,2024,2,11766,10,23532,Cash,3,No
+ORD0050,CUST071,Headphones,Accessories,Hyderabad,South,Sep,2023,3,2302,5,6906,Credit Card,5,No
+ORD0051,CUST044,Laptop,Electronics,Hyderabad,South,Oct,2023,2,52638,20,105276,UPI,4,No
+ORD0052,CUST008,Camera,Electronics,Pune,West,Sep,2024,3,32055,0,96165,UPI,3,No
+ORD0053,CUST047,Camera,Electronics,Hyderabad,South,Jul,2023,1,36821,10,36821,Cash,1,No
+ORD0054,CUST035,Headphones,Accessories,Ahmedabad,West,Apr,2023,3,2525,5,7575,Net Banking,4,No
+ORD0055,CUST078,Tablet,Electronics,Bengaluru,South,May,2023,3,21569,5,64707,Credit Card,4,No
+ORD0056,CUST036,Speaker,Accessories,Chennai,South,Jan,2023,4,9123,10,36492,Cash,5,No
+ORD0057,CUST050,Speaker,Accessories,Hyderabad,South,Jan,2023,3,7125,10,21375,Debit Card,5,No
+ORD0058,CUST004,Headphones,Accessories,Pune,West,Mar,2023,3,5287,20,15861,Debit Card,2,No
+ORD0059,CUST002,Phone,Electronics,Ahmedabad,West,Aug,2024,1,22364,0,22364,Credit Card,5,No
+ORD0060,CUST006,Phone,Electronics,Bengaluru,South,Feb,2024,4,26621,0,106484,Net Banking,3,No
+ORD0061,CUST054,Speaker,Accessories,Delhi,North,Apr,2024,5,10431,10,52155,Cash,5,No
+ORD0062,CUST004,Speaker,Accessories,Delhi,North,Feb,2023,1,9978,10,9978,UPI,5,No
+ORD0063,CUST054,Camera,Electronics,Bengaluru,South,May,2023,1,37126,0,37126,Credit Card,4,No
+ORD0064,CUST063,Tablet,Electronics,Ahmedabad,West,Sep,2023,5,22122,0,110610,Net Banking,5,No
+ORD0065,CUST018,Laptop,Electronics,Pune,West,Jan,2024,3,53646,0,160938,UPI,3,No
+ORD0066,CUST044,Phone,Electronics,Bengaluru,South,May,2024,2,22918,15,45836,Debit Card,4,No
+ORD0067,CUST034,Speaker,Accessories,Chennai,South,Sep,2023,4,7797,0,31188,Debit Card,5,No
+ORD0068,CUST074,Camera,Electronics,Chennai,South,Jan,2024,2,37870,5,75740,UPI,4,No
+ORD0069,CUST062,Smartwatch,Accessories,Delhi,North,Sep,2023,5,10531,0,52655,Credit Card,4,No
+ORD0070,CUST014,Camera,Electronics,Hyderabad,South,Aug,2024,1,35345,5,35345,Debit Card,4,Yes
+ORD0071,CUST048,Phone,Electronics,Pune,West,Apr,2024,1,23906,0,23906,Cash,5,No
+ORD0072,CUST015,Phone,Electronics,Delhi,North,Dec,2024,4,25086,10,100344,UPI,3,No
+ORD0073,CUST072,Camera,Electronics,Hyderabad,South,Nov,2024,1,37311,0,37311,UPI,3,No
+ORD0074,CUST078,Laptop,Electronics,Hyderabad,South,Oct,2024,1,57750,15,57750,Debit Card,5,No
+ORD0075,CUST062,Headphones,Accessories,Chennai,South,May,2023,4,6580,0,26320,Credit Card,5,No
+ORD0076,CUST040,Phone,Electronics,Ahmedabad,West,May,2024,4,24075,10,96300,Cash,2,No
+ORD0077,CUST080,Camera,Electronics,Mumbai,West,Nov,2023,5,32713,15,163565,Credit Card,3,No
+ORD0078,CUST053,Speaker,Accessories,Ahmedabad,West,Dec,2024,1,6062,10,6062,Net Banking,2,No
+ORD0079,CUST024,Camera,Electronics,Mumbai,West,Jun,2024,1,33976,10,33976,Net Banking,3,No
+ORD0080,CUST026,Tablet,Electronics,Bengaluru,South,Jul,2024,5,18296,5,91480,Debit Card,4,No
+ORD0081,CUST060,Headphones,Accessories,Chennai,South,Aug,2024,3,7350,5,22050,Debit Card,5,No
+ORD0082,CUST041,Smartwatch,Accessories,Hyderabad,South,Aug,2024,3,9125,10,27375,Debit Card,4,No
+ORD0083,CUST029,Laptop,Electronics,Pune,West,Nov,2024,3,56632,20,169896,Net Banking,4,No
+ORD0084,CUST015,Smartwatch,Accessories,Mumbai,West,Feb,2024,5,12596,10,62980,Credit Card,4,No
+ORD0085,CUST045,Headphones,Accessories,Ahmedabad,West,Sep,2023,1,5283,10,5283,Credit Card,5,No
+ORD0086,CUST065,Headphones,Accessories,Hyderabad,South,Jul,2023,5,3603,10,18015,Debit Card,4,No
+ORD0087,CUST071,Headphones,Accessories,Mumbai,West,Apr,2023,5,2066,5,10330,Cash,5,No
+ORD0088,CUST009,Smartwatch,Accessories,Mumbai,West,Apr,2023,3,9232,0,27696,Credit Card,4,No
+ORD0089,CUST001,Speaker,Accessories,Mumbai,West,Nov,2024,2,7156,10,14312,Net Banking,2,Yes
+ORD0090,CUST008,Headphones,Accessories,Pune,West,Aug,2023,1,3169,20,3169,UPI,4,No
+ORD0091,CUST063,Camera,Electronics,Chennai,South,Apr,2024,3,34158,0,102474,UPI,3,No
+ORD0092,CUST011,Smartwatch,Accessories,Pune,West,Jun,2023,2,13206,10,26412,UPI,4,No
+ORD0093,CUST008,Headphones,Accessories,Delhi,North,May,2023,2,3493,0,6986,Cash,2,No
+ORD0094,CUST035,Camera,Electronics,Hyderabad,South,Mar,2024,4,36718,10,146872,Debit Card,3,No
+ORD0095,CUST035,Speaker,Accessories,Chennai,South,Oct,2024,1,9007,0,9007,Net Banking,5,No
+ORD0096,CUST033,Tablet,Electronics,Chennai,South,Nov,2024,2,19472,5,38944,Cash,3,No
+ORD0097,CUST005,Speaker,Accessories,Chennai,South,Feb,2024,3,7660,15,22980,Net Banking,5,No
+ORD0098,CUST041,Headphones,Accessories,Ahmedabad,West,Sep,2024,4,7637,5,30548,Net Banking,3,No
+ORD0099,CUST028,Smartwatch,Accessories,Chennai,South,Oct,2023,1,11739,10,11739,Debit Card,4,No
+ORD0100,CUST007,Phone,Electronics,Pune,West,Sep,2024,5,27401,15,137005,UPI,4,No
+ORD0101,CUST073,Headphones,Accessories,Chennai,South,Jan,2024,3,3761,20,11283,Debit Card,4,No
+ORD0102,CUST072,Phone,Electronics,Bengaluru,South,Oct,2024,2,25514,0,51028,Cash,3,No
+ORD0103,CUST012,Camera,Electronics,Hyderabad,South,Mar,2023,2,33975,5,67950,Cash,3,No
+ORD0104,CUST034,Tablet,Electronics,Chennai,South,Aug,2024,3,19362,0,58086,Cash,1,No
+ORD0105,CUST033,Laptop,Electronics,Hyderabad,South,Jun,2023,2,52876,20,105752,Debit Card,3,No
+ORD0106,CUST048,Speaker,Accessories,Bengaluru,South,May,2023,4,8812,20,35248,Net Banking,4,No
+ORD0107,CUST023,Tablet,Electronics,Bengaluru,South,May,2023,1,20448,10,20448,Net Banking,5,No
+ORD0108,CUST062,Headphones,Accessories,Hyderabad,South,Jun,2024,4,3312,15,13248,Credit Card,5,No
+ORD0109,CUST037,Phone,Electronics,Mumbai,West,Jul,2024,2,23460,10,46920,Cash,5,No
+ORD0110,CUST044,Speaker,Accessories,Delhi,North,Jan,2024,5,7709,10,38545,Net Banking,5,No
+ORD0111,CUST035,Phone,Electronics,Ahmedabad,West,Sep,2024,1,24324,0,24324,Credit Card,4,No
+ORD0112,CUST065,Smartwatch,Accessories,Mumbai,West,Mar,2024,1,10733,15,10733,Net Banking,3,No
+ORD0113,CUST047,Phone,Electronics,Mumbai,West,Apr,2023,3,23605,0,70815,Cash,5,No
+ORD0114,CUST078,Smartwatch,Accessories,Pune,West,Oct,2023,3,14622,15,43866,UPI,4,No
+ORD0115,CUST003,Camera,Electronics,Ahmedabad,West,Jan,2024,5,34563,15,172815,Cash,4,No
+ORD0116,CUST001,Speaker,Accessories,Ahmedabad,West,Nov,2023,1,8421,10,8421,Debit Card,2,No
+ORD0117,CUST005,Speaker,Accessories,Mumbai,West,Oct,2024,5,8517,0,42585,Net Banking,4,No
+ORD0118,CUST014,Laptop,Electronics,Chennai,South,Mar,2024,3,54397,5,163191,Net Banking,4,No
+ORD0119,CUST027,Headphones,Accessories,Pune,West,Feb,2024,3,7726,0,23178,Debit Card,5,No
+ORD0120,CUST009,Smartwatch,Accessories,Pune,West,Feb,2024,1,12735,5,12735,Debit Card,4,No
+ORD0121,CUST079,Laptop,Electronics,Bengaluru,South,Jan,2024,4,54870,0,219480,UPI,4,No
+ORD0122,CUST015,Phone,Electronics,Ahmedabad,West,Aug,2024,2,23160,20,46320,Net Banking,5,No
+ORD0123,CUST042,Phone,Electronics,Mumbai,West,Mar,2024,3,26854,10,80562,Net Banking,2,No
+ORD0124,CUST077,Laptop,Electronics,Bengaluru,South,Mar,2024,3,52242,5,156726,UPI,4,No
+ORD0125,CUST051,Speaker,Accessories,Hyderabad,South,Jun,2023,4,7590,5,30360,Credit Card,1,No
+ORD0126,CUST063,Phone,Electronics,Delhi,North,Aug,2024,4,23063,5,92252,UPI,5,No
+ORD0127,CUST052,Camera,Electronics,Pune,West,Sep,2024,5,36324,10,181620,Cash,5,Yes
+ORD0128,CUST004,Camera,Electronics,Hyderabad,South,Sep,2023,5,34595,10,172975,Net Banking,3,No
+ORD0129,CUST023,Laptop,Electronics,Hyderabad,South,Apr,2024,2,52919,20,105838,Debit Card,5,No
+ORD0130,CUST015,Smartwatch,Accessories,Chennai,South,May,2024,2,14342,5,28684,Cash,3,No
+ORD0131,CUST043,Smartwatch,Accessories,Delhi,North,Feb,2024,1,9005,20,9005,Net Banking,5,No
+ORD0132,CUST029,Laptop,Electronics,Hyderabad,South,Nov,2023,5,52467,15,262335,UPI,5,Yes
+ORD0133,CUST036,Smartwatch,Accessories,Hyderabad,South,Sep,2024,3,14851,0,44553,Cash,5,No
+ORD0134,CUST013,Speaker,Accessories,Delhi,North,Aug,2024,5,9170,20,45850,Net Banking,1,No
+ORD0135,CUST032,Speaker,Accessories,Delhi,North,Mar,2023,3,5003,0,15009,Credit Card,5,No
+ORD0136,CUST071,Smartwatch,Accessories,Hyderabad,South,Nov,2023,4,14966,15,59864,Credit Card,5,No
+ORD0137,CUST059,Camera,Electronics,Delhi,North,Dec,2024,5,32645,5,163225,Debit Card,3,No
+ORD0138,CUST028,Smartwatch,Accessories,Hyderabad,South,Sep,2023,4,9117,15,36468,Net Banking,5,Yes
+ORD0139,CUST066,Speaker,Accessories,Hyderabad,South,Mar,2024,2,7928,15,15856,Credit Card,3,No
+ORD0140,CUST042,Tablet,Electronics,Chennai,South,Sep,2024,2,22725,15,45450,UPI,5,No
+ORD0141,CUST045,Headphones,Accessories,Mumbai,West,Feb,2023,1,4551,15,4551,Net Banking,2,No
+ORD0142,CUST062,Phone,Electronics,Hyderabad,South,Dec,2024,5,27042,5,135210,UPI,5,No
+ORD0143,CUST057,Tablet,Electronics,Bengaluru,South,Oct,2024,4,22560,0,90240,UPI,4,No
+ORD0144,CUST006,Smartwatch,Accessories,Pune,West,Sep,2024,3,13289,5,39867,Credit Card,2,No
+ORD0145,CUST028,Camera,Electronics,Ahmedabad,West,Aug,2023,2,32846,0,65692,Net Banking,3,No
+ORD0146,CUST028,Laptop,Electronics,Mumbai,West,Sep,2024,2,54762,10,109524,Cash,1,No
+ORD0147,CUST044,Smartwatch,Accessories,Mumbai,West,May,2023,3,14511,5,43533,Credit Card,4,No
+ORD0148,CUST030,Camera,Electronics,Mumbai,West,Nov,2023,4,37554,20,150216,Credit Card,3,No
+ORD0149,CUST062,Headphones,Accessories,Chennai,South,Nov,2024,4,7764,10,31056,Net Banking,4,No
+ORD0150,CUST075,Smartwatch,Accessories,Hyderabad,South,Feb,2023,5,14529,15,72645,Net Banking,3,Yes
+ORD0151,CUST062,Speaker,Accessories,Chennai,South,Aug,2024,5,6141,0,30705,UPI,3,No
+ORD0152,CUST001,Laptop,Electronics,Hyderabad,South,Dec,2023,1,53810,15,53810,Net Banking,5,No
+ORD0153,CUST027,Camera,Electronics,Chennai,South,Jun,2024,2,32723,20,65446,UPI,1,No
+ORD0154,CUST062,Camera,Electronics,Chennai,South,Aug,2023,5,32224,5,161120,Credit Card,5,No
+ORD0155,CUST077,Camera,Electronics,Pune,West,Nov,2024,4,36627,10,146508,Debit Card,5,Yes
+ORD0156,CUST003,Headphones,Accessories,Bengaluru,South,May,2024,3,6208,15,18624,Cash,4,No
+ORD0157,CUST070,Smartwatch,Accessories,Chennai,South,Oct,2023,4,13654,0,54616,Credit Card,4,No
+ORD0158,CUST072,Headphones,Accessories,Pune,West,Feb,2023,2,4048,10,8096,Net Banking,5,No
+ORD0159,CUST027,Phone,Electronics,Delhi,North,Jun,2023,4,26749,5,106996,Cash,3,No
+ORD0160,CUST009,Phone,Electronics,Bengaluru,South,May,2024,1,26415,0,26415,Debit Card,2,No
+ORD0161,CUST062,Smartwatch,Accessories,Chennai,South,Dec,2023,2,10573,5,21146,Debit Card,3,No
+ORD0162,CUST037,Speaker,Accessories,Ahmedabad,West,Dec,2024,3,6828,0,20484,UPI,5,No
+ORD0163,CUST051,Headphones,Accessories,Mumbai,West,May,2024,1,3917,0,3917,Cash,1,No
+ORD0164,CUST044,Laptop,Electronics,Delhi,North,Jan,2023,2,56234,0,112468,UPI,4,No
+ORD0165,CUST024,Camera,Electronics,Delhi,North,Feb,2024,3,34026,20,102078,Credit Card,5,No
+ORD0166,CUST079,Camera,Electronics,Pune,West,Aug,2024,1,35744,10,35744,Cash,5,Yes
+ORD0167,CUST059,Smartwatch,Accessories,Delhi,North,Mar,2023,1,9901,20,9901,Credit Card,4,No
+ORD0168,CUST032,Speaker,Accessories,Bengaluru,South,Oct,2023,2,9785,5,19570,UPI,2,Yes
+ORD0169,CUST052,Phone,Electronics,Chennai,South,Mar,2023,5,24039,5,120195,Cash,5,No
+ORD0170,CUST062,Phone,Electronics,Chennai,South,Aug,2024,1,22009,10,22009,UPI,4,No
+ORD0171,CUST058,Camera,Electronics,Ahmedabad,West,Aug,2024,1,32260,5,32260,Cash,2,Yes
+ORD0172,CUST052,Smartwatch,Accessories,Mumbai,West,Feb,2024,3,10673,0,32019,UPI,2,No
+ORD0173,CUST012,Headphones,Accessories,Pune,West,Aug,2024,4,4219,10,16876,Debit Card,5,Yes
+ORD0174,CUST039,Phone,Electronics,Mumbai,West,Nov,2024,2,24060,0,48120,UPI,4,No
+ORD0175,CUST002,Headphones,Accessories,Delhi,North,Jan,2024,2,7287,10,14574,Debit Card,5,No
+ORD0176,CUST003,Speaker,Accessories,Ahmedabad,West,Jun,2024,5,8713,10,43565,UPI,5,Yes
+ORD0177,CUST056,Phone,Electronics,Mumbai,West,Aug,2023,5,23619,0,118095,Cash,4,No
+ORD0178,CUST059,Phone,Electronics,Bengaluru,South,Mar,2023,2,22320,0,44640,Cash,4,No
+ORD0179,CUST002,Tablet,Electronics,Chennai,South,Aug,2023,5,18342,15,91710,Cash,4,No
+ORD0180,CUST002,Phone,Electronics,Delhi,North,Dec,2023,3,27732,5,83196,Net Banking,3,Yes
+ORD0181,CUST054,Laptop,Electronics,Ahmedabad,West,Jan,2024,2,54376,0,108752,Credit Card,4,No
+ORD0182,CUST001,Smartwatch,Accessories,Mumbai,West,Nov,2024,5,11832,20,59160,Cash,5,No
+ORD0183,CUST019,Smartwatch,Accessories,Pune,West,Nov,2023,2,11824,0,23648,Debit Card,4,No
+ORD0184,CUST002,Headphones,Accessories,Bengaluru,South,Sep,2023,4,3994,10,15976,Cash,5,Yes
+ORD0185,CUST053,Speaker,Accessories,Bengaluru,South,Nov,2024,1,7958,20,7958,Net Banking,4,Yes
+ORD0186,CUST044,Phone,Electronics,Mumbai,West,Sep,2024,2,24038,0,48076,Debit Card,4,No
+ORD0187,CUST032,Laptop,Electronics,Chennai,South,May,2023,1,55490,0,55490,Net Banking,4,No
+ORD0188,CUST070,Headphones,Accessories,Mumbai,West,Oct,2024,5,5677,0,28385,Debit Card,4,No
+ORD0189,CUST032,Tablet,Electronics,Delhi,North,Apr,2023,1,18118,5,18118,UPI,5,No
+ORD0190,CUST068,Headphones,Accessories,Mumbai,West,Nov,2023,2,3604,0,7208,Credit Card,3,No
+ORD0191,CUST055,Headphones,Accessories,Bengaluru,South,Jun,2024,4,6027,10,24108,Credit Card,4,No
+ORD0192,CUST075,Phone,Electronics,Ahmedabad,West,Dec,2024,5,22235,0,111175,Net Banking,2,No
+ORD0193,CUST056,Tablet,Electronics,Mumbai,West,Jul,2023,2,18969,10,37938,Credit Card,4,No
+ORD0194,CUST017,Headphones,Accessories,Chennai,South,May,2024,5,6429,20,32145,Net Banking,4,No
+ORD0195,CUST038,Laptop,Electronics,Ahmedabad,West,Nov,2024,3,53908,15,161724,Net Banking,4,No
+ORD0196,CUST024,Laptop,Electronics,Pune,West,Oct,2024,1,52375,10,52375,Net Banking,5,No
+ORD0197,CUST069,Smartwatch,Accessories,Hyderabad,South,Sep,2024,3,12530,5,37590,Credit Card,4,No
+ORD0198,CUST070,Tablet,Electronics,Mumbai,West,Mar,2024,2,22256,10,44512,Net Banking,5,No
+ORD0199,CUST011,Tablet,Electronics,Chennai,South,Jul,2024,4,19635,10,78540,Credit Card,4,No
+ORD0200,CUST016,Smartwatch,Accessories,Ahmedabad,West,Oct,2024,5,10570,5,52850,Net Banking,4,No
+ORD0201,CUST073,Headphones,Accessories,Chennai,South,Oct,2023,1,4560,0,4560,Cash,2,No
+ORD0202,CUST059,Tablet,Electronics,Pune,West,Nov,2023,5,22415,15,112075,Net Banking,3,No
+ORD0203,CUST070,Laptop,Electronics,Bengaluru,South,May,2023,2,55391,5,110782,Debit Card,4,No
+ORD0204,CUST080,Laptop,Electronics,Chennai,South,Jul,2024,5,54965,0,274825,Net Banking,4,No
+ORD0205,CUST003,Phone,Electronics,Ahmedabad,West,Feb,2023,1,25643,5,25643,UPI,1,No
+ORD0206,CUST020,Tablet,Electronics,Chennai,South,Apr,2024,2,22951,5,45902,Net Banking,2,No
+ORD0207,CUST059,Headphones,Accessories,Chennai,South,Feb,2024,5,7468,15,37340,Debit Card,3,No
+ORD0208,CUST036,Smartwatch,Accessories,Chennai,South,Dec,2023,4,12850,10,51400,Debit Card,5,Yes
+ORD0209,CUST019,Smartwatch,Accessories,Delhi,North,Jul,2024,2,9872,15,19744,Credit Card,3,No
+ORD0210,CUST067,Headphones,Accessories,Delhi,North,Feb,2024,2,3252,0,6504,Cash,4,No
+ORD0211,CUST019,Speaker,Accessories,Bengaluru,South,Nov,2024,4,10947,5,43788,Net Banking,3,No
+ORD0212,CUST020,Camera,Electronics,Mumbai,West,Jan,2023,3,33314,5,99942,Credit Card,4,No
+ORD0213,CUST071,Phone,Electronics,Chennai,South,Sep,2024,1,26820,0,26820,Cash,3,No
+ORD0214,CUST052,Smartwatch,Accessories,Pune,West,Jan,2024,3,11898,0,35694,Net Banking,3,No
+ORD0215,CUST033,Tablet,Electronics,Mumbai,West,Aug,2024,5,17077,15,85385,UPI,4,No
+ORD0216,CUST040,Phone,Electronics,Pune,West,Feb,2024,4,24621,0,98484,Net Banking,1,No
+ORD0217,CUST039,Tablet,Electronics,Mumbai,West,Dec,2024,3,21227,10,63681,Debit Card,1,No
+ORD0218,CUST001,Speaker,Accessories,Bengaluru,South,Aug,2024,2,5600,0,11200,Debit Card,3,No
+ORD0219,CUST011,Laptop,Electronics,Chennai,South,Mar,2024,5,57868,0,289340,UPI,1,No
+ORD0220,CUST057,Phone,Electronics,Chennai,South,Jun,2024,5,23065,0,115325,Credit Card,2,No
+ORD0221,CUST050,Smartwatch,Accessories,Hyderabad,South,Mar,2023,3,11136,20,33408,Cash,3,No
+ORD0222,CUST023,Phone,Electronics,Pune,West,Jul,2024,3,24449,15,73347,Net Banking,5,No
+ORD0223,CUST031,Phone,Electronics,Mumbai,West,Oct,2024,4,24343,20,97372,Debit Card,4,Yes
+ORD0224,CUST042,Phone,Electronics,Mumbai,West,Sep,2024,1,23863,5,23863,Credit Card,4,No
+ORD0225,CUST007,Camera,Electronics,Delhi,North,Feb,2023,3,33318,0,99954,UPI,3,No
+ORD0226,CUST016,Phone,Electronics,Hyderabad,South,Dec,2024,3,26711,10,80133,Debit Card,5,Yes
+ORD0227,CUST060,Tablet,Electronics,Ahmedabad,West,Dec,2023,2,20597,5,41194,UPI,4,No
+ORD0228,CUST002,Laptop,Electronics,Ahmedabad,West,May,2024,5,55762,15,278810,Net Banking,2,Yes
+ORD0229,CUST001,Speaker,Accessories,Delhi,North,Jun,2023,1,10984,0,10984,Cash,4,No
+ORD0230,CUST048,Headphones,Accessories,Delhi,North,Apr,2024,2,7142,5,14284,Debit Card,2,No
+ORD0231,CUST012,Phone,Electronics,Delhi,North,Apr,2024,4,26670,0,106680,Debit Card,3,Yes
+ORD0232,CUST069,Smartwatch,Accessories,Pune,West,Apr,2023,4,11190,5,44760,Net Banking,4,No
+ORD0233,CUST037,Phone,Electronics,Pune,West,Feb,2024,3,22992,10,68976,Credit Card,5,Yes
+ORD0234,CUST032,Smartwatch,Accessories,Bengaluru,South,Apr,2024,3,11712,5,35136,Cash,4,No
+ORD0235,CUST009,Tablet,Electronics,Bengaluru,South,Nov,2024,4,19192,5,76768,Debit Card,5,No
+ORD0236,CUST019,Smartwatch,Accessories,Delhi,North,Jan,2024,3,10248,5,30744,Cash,5,No
+ORD0237,CUST048,Headphones,Accessories,Hyderabad,South,Dec,2024,1,5054,5,5054,Debit Card,2,Yes
+ORD0238,CUST080,Laptop,Electronics,Mumbai,West,Jun,2024,3,56598,15,169794,Cash,3,No
+ORD0239,CUST003,Smartwatch,Accessories,Pune,West,Jan,2024,5,13033,15,65165,UPI,4,No
+ORD0240,CUST020,Smartwatch,Accessories,Hyderabad,South,Oct,2024,3,10997,20,32991,Debit Card,4,No
+ORD0241,CUST024,Laptop,Electronics,Chennai,South,Jun,2023,2,56916,15,113832,Cash,4,No
+ORD0242,CUST054,Headphones,Accessories,Pune,West,Jan,2024,1,5687,5,5687,Credit Card,5,No
+ORD0243,CUST033,Phone,Electronics,Pune,West,Jun,2024,2,24151,10,48302,UPI,5,No
+ORD0244,CUST024,Smartwatch,Accessories,Bengaluru,South,Oct,2024,2,13018,5,26036,UPI,4,No
+ORD0245,CUST075,Laptop,Electronics,Mumbai,West,Aug,2024,5,55110,0,275550,Credit Card,3,No
+ORD0246,CUST072,Tablet,Electronics,Mumbai,West,Nov,2024,1,18970,15,18970,Cash,5,No
+ORD0247,CUST036,Laptop,Electronics,Ahmedabad,West,Feb,2024,1,52197,0,52197,Net Banking,5,No
+ORD0248,CUST038,Tablet,Electronics,Ahmedabad,West,Feb,2023,1,22765,20,22765,Credit Card,5,Yes
+ORD0249,CUST025,Headphones,Accessories,Ahmedabad,West,Dec,2024,1,4626,5,4626,Cash,1,No
+ORD0250,CUST018,Phone,Electronics,Ahmedabad,West,Apr,2023,1,23202,10,23202,Credit Card,4,No
+ORD0251,CUST066,Laptop,Electronics,Chennai,South,Nov,2023,5,57567,10,287835,Credit Card,2,No
+ORD0252,CUST054,Speaker,Accessories,Chennai,South,Mar,2023,3,10742,15,32226,Debit Card,3,No
+ORD0253,CUST035,Speaker,Accessories,Pune,West,Apr,2023,2,10788,10,21576,Cash,2,No
+ORD0254,CUST080,Camera,Electronics,Delhi,North,Dec,2024,1,37408,10,37408,Net Banking,4,Yes
+ORD0255,CUST061,Smartwatch,Accessories,Bengaluru,South,Jul,2023,3,11035,0,33105,Debit Card,4,No
+ORD0256,CUST041,Headphones,Accessories,Bengaluru,South,Nov,2024,3,2477,10,7431,Credit Card,2,No
+ORD0257,CUST033,Laptop,Electronics,Ahmedabad,West,Jan,2023,2,53254,0,106508,Credit Card,4,No
+ORD0258,CUST068,Speaker,Accessories,Pune,West,Jun,2023,5,5922,10,29610,Credit Card,4,No
+ORD0259,CUST033,Smartwatch,Accessories,Hyderabad,South,Mar,2023,4,9419,10,37676,Cash,4,No
+ORD0260,CUST014,Speaker,Accessories,Delhi,North,Nov,2023,4,7204,10,28816,Cash,2,No
+ORD0261,CUST021,Laptop,Electronics,Pune,West,Oct,2024,3,54597,0,163791,Debit Card,4,No
+ORD0262,CUST048,Tablet,Electronics,Delhi,North,Jul,2024,2,18120,0,36240,Net Banking,5,No
+ORD0263,CUST020,Laptop,Electronics,Delhi,North,Oct,2024,4,55068,10,220272,Debit Card,2,Yes
+ORD0264,CUST008,Camera,Electronics,Delhi,North,Feb,2024,3,32950,0,98850,UPI,2,No
+ORD0265,CUST007,Laptop,Electronics,Pune,West,Feb,2023,5,54336,0,271680,Credit Card,4,No
+ORD0266,CUST067,Laptop,Electronics,Ahmedabad,West,Apr,2024,4,57373,0,229492,Credit Card,5,Yes
+ORD0267,CUST017,Camera,Electronics,Bengaluru,South,Jan,2024,3,34243,20,102729,Credit Card,4,No
+ORD0268,CUST033,Headphones,Accessories,Bengaluru,South,Mar,2024,3,4645,10,13935,Debit Card,4,No
+ORD0269,CUST048,Laptop,Electronics,Ahmedabad,West,Sep,2023,1,53857,5,53857,Debit Card,4,No
+ORD0270,CUST076,Camera,Electronics,Delhi,North,Jul,2023,5,36612,0,183060,Credit Card,4,No
+ORD0271,CUST059,Smartwatch,Accessories,Hyderabad,South,Jul,2023,1,14754,5,14754,Debit Card,1,No
+ORD0272,CUST022,Tablet,Electronics,Mumbai,West,Nov,2023,2,18865,15,37730,Cash,4,No
+ORD0273,CUST030,Tablet,Electronics,Pune,West,Apr,2024,1,19912,10,19912,Cash,5,No
+ORD0274,CUST038,Laptop,Electronics,Mumbai,West,Feb,2024,1,57237,0,57237,Debit Card,4,No
+ORD0275,CUST051,Headphones,Accessories,Ahmedabad,West,Apr,2024,4,4853,0,19412,Credit Card,5,Yes
+ORD0276,CUST054,Headphones,Accessories,Hyderabad,South,Jun,2024,3,6910,0,20730,Debit Card,5,No
+ORD0277,CUST008,Smartwatch,Accessories,Pune,West,Nov,2024,5,14996,10,74980,Debit Card,2,No
+ORD0278,CUST027,Laptop,Electronics,Ahmedabad,West,Nov,2024,1,55228,15,55228,Debit Card,5,No
+ORD0279,CUST027,Tablet,Electronics,Delhi,North,Mar,2024,5,20719,0,103595,UPI,2,No
+ORD0280,CUST021,Headphones,Accessories,Bengaluru,South,Jan,2023,1,5228,0,5228,Cash,4,No
+ORD0281,CUST030,Laptop,Electronics,Mumbai,West,Dec,2023,2,54371,0,108742,Net Banking,2,No
+ORD0282,CUST028,Speaker,Accessories,Chennai,South,Aug,2023,1,7891,20,7891,Net Banking,1,No
+ORD0283,CUST064,Headphones,Accessories,Chennai,South,Dec,2024,4,5756,0,23024,UPI,4,No
+ORD0284,CUST069,Camera,Electronics,Hyderabad,South,May,2024,3,36225,15,108675,Debit Card,3,No
+ORD0285,CUST061,Speaker,Accessories,Delhi,North,May,2023,2,5094,10,10188,UPI,4,No
+ORD0286,CUST048,Headphones,Accessories,Mumbai,West,Nov,2024,1,4674,5,4674,UPI,4,No
+ORD0287,CUST019,Tablet,Electronics,Delhi,North,Apr,2023,5,18955,0,94775,Credit Card,1,No
+ORD0288,CUST004,Phone,Electronics,Mumbai,West,Jun,2024,2,22793,0,45586,Cash,2,No
+ORD0289,CUST035,Speaker,Accessories,Hyderabad,South,Mar,2023,2,6834,10,13668,Net Banking,4,No
+ORD0290,CUST064,Smartwatch,Accessories,Hyderabad,South,Sep,2023,1,11116,15,11116,Debit Card,3,No
+ORD0291,CUST049,Smartwatch,Accessories,Chennai,South,May,2024,2,14779,10,29558,Net Banking,5,No
+ORD0292,CUST017,Tablet,Electronics,Delhi,North,Mar,2023,5,21106,10,105530,Net Banking,4,No
+ORD0293,CUST044,Headphones,Accessories,Pune,West,Nov,2023,2,5325,0,10650,Cash,5,No
+ORD0294,CUST030,Laptop,Electronics,Chennai,South,Jan,2023,5,57961,20,289805,Net Banking,4,No
+ORD0295,CUST046,Headphones,Accessories,Delhi,North,Oct,2024,1,4919,15,4919,Net Banking,4,No
+ORD0296,CUST006,Tablet,Electronics,Chennai,South,Dec,2024,3,19597,0,58791,UPI,4,No
+ORD0297,CUST037,Smartwatch,Accessories,Pune,West,Jun,2023,2,12205,20,24410,Cash,3,No
+ORD0298,CUST024,Headphones,Accessories,Bengaluru,South,Feb,2024,3,6807,10,20421,Credit Card,3,No
+ORD0299,CUST046,Smartwatch,Accessories,Bengaluru,South,Mar,2024,5,9814,10,49070,Debit Card,5,Yes
+ORD0300,CUST053,Speaker,Accessories,Bengaluru,South,Jan,2023,2,5345,10,10690,Net Banking,4,Yes
