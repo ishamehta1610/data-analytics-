@@ -1,17 +1,44 @@
-## 👩‍💻 About Me
+# 📊 Data Analytics Project
 
-I'm Isha, a first-year B.Tech CSE student at VIT Vellore, passionate about learning programming, data analytics, and building projects.
+Hi! I'm **Isha Mehta**, a first-year B.Tech Computer Science student at **VIT Vellore** with a passion for programming and data analytics.
 
-This repository is part of my coding journey.
+This repository contains my first Data Analytics project, where I explored a real-world dataset using Python and performed Exploratory Data Analysis (EDA) to uncover meaningful insights.
 
-## Topics
-- Variables & Data Types
-- Operators
-- Conditional Statements
-- Functions
-- Combining DataFrames
-- Matplotlib basics
+## 🎯 Project Objective
 
-Each program is written to strengthen my understanding of Python fundamentals.
+The goal of this project was to:
+- Clean and preprocess data
+- Analyze patterns and trends
+- Perform data filtering and aggregation
+- Visualize insights using graphs
 
-More projects coming soon!
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## 📈 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Boolean Indexing
+- Data Filtering
+- Grouping & Aggregation
+- Data Visualization
+- Working with DataFrames
+
+## 📂 Project Files
+
+- `Data_analytics_project.ipynb` – Complete Jupyter Notebook containing the analysis.
+- `README.md` – Project documentation.
+
+## 🚀 About Me
+
+I'm currently learning Python, Data Analytics, SQL, and Machine Learning while building projects to strengthen my practical skills.
+
+This repository marks the beginning of my journey, and I look forward to sharing many more projects.
+
+⭐ If you found this project interesting, feel free to explore the notebook and share your feedback!
